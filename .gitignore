@@ -1,0 +1,6 @@
+.virtual
+criativo/
+__pycache__
+*.xlsx
+config.py
+test.py
